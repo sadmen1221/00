@@ -1,0 +1,27 @@
+*{
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+   }
+
+   body {
+     
+     background-size: cover;
+     font-family: "Century Gothic", sans-serif;
+     color: rgb(199, 98, 4);
+   }
+   
+   .box {
+       width:  600px;
+       background: rgba(209, 155, 235, 0.4);
+       margin: 0 auto;
+       margin-top: 9%;
+       padding: 14px;
+       color: rgb(20, 19, 19);
+       text-align: center;
+       border-radius: 14px;
+   }
+
+.i1 {
+    font-size: 7;
+}
